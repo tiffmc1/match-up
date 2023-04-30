@@ -100,7 +100,7 @@ export default function App() {
 		<>
 			<div className={disablePageClick ? "no-click" : ""}>
 				<div className="header-container">
-					<div className="header-title">Match Up!</div>
+					<div className="header-title">Match Up! Memory Challenge</div>
 					<div className="header-desc">
 						Below are pairs of matching cards ranging from 1 to 9. Your job is
 						to correctly match all the pairs{/*before the time runs out*/}!
